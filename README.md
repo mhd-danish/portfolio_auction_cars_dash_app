@@ -1,4 +1,4 @@
-# Used Auction Cars: Dash App for EDA & Predictions
+# Used Auction Cars: Dash App for Predictions
  
 Dash application that is used for predicting used auction car prices.
 
